@@ -1,4 +1,4 @@
-#  Full Stack Developer | Angular | React | AWS | Stripe | PHP | Laravel | etc  
+#  Full Stack Developer
 ## Hi, I am SnowMan! 👋
 
 ### 💻Tech Stack
