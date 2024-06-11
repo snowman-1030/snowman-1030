@@ -8,11 +8,6 @@
 </p>
 
 <hr>
-
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=saamirbinbadri&column=8)](https://github-profile-trophy.vercel.app/?username=saamirbinbadri&column=8)
-
  <br>
 
 
@@ -79,9 +74,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
+
+
+</td></tr></table> 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-</td></tr></table> 
