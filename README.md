@@ -1,5 +1,5 @@
-#  Full Stack Developer
-## Hi, I am SnowMan! 👋
+
+# Hi, I am SnowMan! 👋
 
 ### 💻Tech Stack
 <p align="center">
