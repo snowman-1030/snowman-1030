@@ -117,22 +117,6 @@ I am a passionate web and AI developer with experience in building dynamic web a
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
-
-## 📂 Projects
-### 🚀 [Project Name](link)
-**Description:** Brief description of the project.
-
-**Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black), ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🤖 [Project Name](link)
-**Description:** Brief description of the project.
-
-**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 📫 Contact Me
 - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourusername)
