@@ -54,6 +54,53 @@ I am a passionate web and AI developer with experience in building dynamic web a
 ![Hapi](https://img.shields.io/badge/Hapi-6CC644?style=for-the-badge&logo=hapi&logoColor=white)
 
 
+### DevOps Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Chef](https://img.shields.io/badge/Chef-F09820?style=for-the-badge&logo=chef&logoColor=white)
+![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-openshift&logoColor=white)
+![Travis CI](https://img.shields.io/badge/TravisCI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-222222?style=for-the-badge&logo=nagios&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
+
+### Blockchain
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-5E4C9A?style=for-the-badge&logo=truffle&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFBC00?style=for-the-badge&logo=hardhat&logoColor=black)
+![Metamask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
+![Ganache](https://img.shields.io/badge/Ganache-7444D1?style=for-the-badge&logo=ganache&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+![Corda](https://img.shields.io/badge/Corda-E11D36?style=for-the-badge&logo=corda&logoColor=white)
+![Ripple](https://img.shields.io/badge/Ripple-0085C0?style=for-the-badge&logo=ripple&logoColor=white)
+![Tezos](https://img.shields.io/badge/Tezos-2C7DF7?style=for-the-badge&logo=tezos&logoColor=white)
+![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+![Cosmos](https://img.shields.io/badge/Cosmos-000000?style=for-the-badge&logo=cosmos&logoColor=white)
+![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white)
+![Binance Smart Chain](https://img.shields.io/badge/Binance_Smart_Chain-F3BA2F?style=for-the-badge&logo=binance&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=white)
+![Near](https://img.shields.io/badge/Near-000000?style=for-the-badge&logo=near&logoColor=white)
+![IOTA](https://img.shields.io/badge/IOTA-131C25?style=for-the-badge&logo=iota&logoColor=white)
+
+
 ### DevOps
 
 
