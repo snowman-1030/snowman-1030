@@ -4,7 +4,7 @@
 Passionate about Web, AI, and Blockchain Development, dedicated to utilizing cutting-edge technologies to create innovative solutions. With a diverse skill set and a solid foundation in full-stack development, machine learning, and decentralized systems, thrives at transforming complex problems into elegant, efficient applications.
 
 ### Frontend Development
-  <img class="badge" src="https://img.shields.io/badge/logo=html5&logoColor=white" alt="HTML5">
+![HTML5](https://img.shields.io/badge/logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
