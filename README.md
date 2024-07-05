@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm SnowMan 👋
 
 ## About Me
 I am a passionate web and AI developer with experience in building dynamic web applications and developing AI models. I love exploring new technologies and applying them to solve real-world problems.
@@ -35,14 +35,10 @@ I am a passionate web and AI developer with experience in building dynamic web a
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -51,7 +47,6 @@ I am a passionate web and AI developer with experience in building dynamic web a
 ![Apollo Server](https://img.shields.io/badge/Apollo_Server-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Hapi](https://img.shields.io/badge/Hapi-6CC644?style=for-the-badge&logo=hapi&logoColor=white)
 
 
 ### Blockchain
@@ -63,33 +58,18 @@ I am a passionate web and AI developer with experience in building dynamic web a
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFBC00?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Metamask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
 ![Ganache](https://img.shields.io/badge/Ganache-7444D1?style=for-the-badge&logo=ganache&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-![Corda](https://img.shields.io/badge/Corda-E11D36?style=for-the-badge&logo=corda&logoColor=white)
-![Ripple](https://img.shields.io/badge/Ripple-0085C0?style=for-the-badge&logo=ripple&logoColor=white)
-![Tezos](https://img.shields.io/badge/Tezos-2C7DF7?style=for-the-badge&logo=tezos&logoColor=white)
-![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
-![Cosmos](https://img.shields.io/badge/Cosmos-000000?style=for-the-badge&logo=cosmos&logoColor=white)
-![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white)
-![Binance Smart Chain](https://img.shields.io/badge/Binance_Smart_Chain-F3BA2F?style=for-the-badge&logo=binance&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=white)
-![Near](https://img.shields.io/badge/Near-000000?style=for-the-badge&logo=near&logoColor=white)
-![IOTA](https://img.shields.io/badge/IOTA-131C25?style=for-the-badge&logo=iota&logoColor=white)
 
 
 ### Artificial Intelligence
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-003A63?style=for-the-badge&logo=nltk&logoColor=white)
 ![Spacy](https://img.shields.io/badge/Spacy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF7E4A?style=for-the-badge&logo=hugging-face&logoColor=white)
 
 
 
@@ -118,7 +98,4 @@ I am a passionate web and AI developer with experience in building dynamic web a
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
 
 
-## 📫 Contact Me
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourusername)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- **Email:** [yourname@example.com](mailto:yourname@example.com)
+
