@@ -1,7 +1,7 @@
 <img src="/banner.png" alt="banner" width="100%"/>
 
 ## About Me
-I'm a passionate Web, AI, and Blockchain Developer dedicated to leveraging cutting-edge technologies to create innovative solutions. With a diverse skill set and a strong foundation in full-stack development, machine learning, and decentralized systems, I thrive on transforming complex problems into elegant, efficient applications.
+Passionate about Web, AI, and Blockchain Development, dedicated to utilizing cutting-edge technologies to create innovative solutions. With a diverse skill set and a solid foundation in full-stack development, machine learning, and decentralized systems, thrives at transforming complex problems into elegant, efficient applications.
 
 ## 🚀 Skills
 ### Languages and Tools
