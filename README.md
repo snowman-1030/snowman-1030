@@ -1,7 +1,7 @@
 <img src="/banner.png" alt="banner" width="100%"/>
 
 ## About Me
-I am a passionate web and AI developer with experience in building dynamic web applications and developing AI models. I love exploring new technologies and applying them to solve real-world problems.
+I'm a passionate Web, AI, and Blockchain Developer dedicated to leveraging cutting-edge technologies to create innovative solutions. With a diverse skill set and a strong foundation in full-stack development, machine learning, and decentralized systems, I thrive on transforming complex problems into elegant, efficient applications.
 
 ## 🚀 Skills
 ### Languages and Tools
