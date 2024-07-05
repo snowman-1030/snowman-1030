@@ -1,4 +1,4 @@
-# Hi there, I'm SnowMan 👋
+<a src="banner.jpg" alt="banner" width="100%"/>
 
 ## About Me
 I am a passionate web and AI developer with experience in building dynamic web applications and developing AI models. I love exploring new technologies and applying them to solve real-world problems.
