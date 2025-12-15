@@ -1,7 +1,7 @@
 <img src="/banner.png" alt="banner" width="100%"/>
 
 ## About Me
-I’ve been developing apps and web solutions for over 5 years, delivering 15+ projects for a variety of clients. My main achievements are high-performance, scalable apps built with JavaScript stack - all aimed at solving real problems and improving business processes.
+I’ve been developing apps and web solutions for over 10 years, delivering 45+ projects for a variety of clients. My main achievements are high-performance, scalable apps built with JavaScript stack - all aimed at solving real problems and improving business processes.
 
 🌍 𝐐𝐔𝐈𝐂𝐊 𝐎𝐕𝐄𝐑𝐕𝐈𝐄𝐖
 
